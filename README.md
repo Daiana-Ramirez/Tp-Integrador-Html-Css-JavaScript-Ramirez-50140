@@ -2,7 +2,6 @@ En el presente repositorio se encuentra la resolución de los ejercicios solicit
 
 Se trata de un Sistema de Gestión de Pedidos para una Empresa de Comidas.
 
-Para visualizar la ejecución de este proyecto debe primero clonar el repositorio utilizando el comando: https://github.com/hsinyulin03/Trabajo-Practico-Integrador_Html_Css_JavaScript-LIN-50069.git
+Se debe instalar las dependencias de npm para ejecutar el proyecto.
 
-Luego instalar las dependencias de npm.
 
